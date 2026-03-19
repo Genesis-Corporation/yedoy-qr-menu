@@ -10,96 +10,96 @@ export const menu: MenuCategory[] = [
         name: "Kıymalı",
         image: "pideler_kiymali.webp",
         sizes: [
-          { size: "1 porsiyon", price: 230 },
-          { size: "1.5 porsiyon", price: 345 },
+          { size: "1 porsiyon", price: 260 },
+          { size: "1.5 porsiyon", price: 390 },
         ],
       },
       {
         name: "Lahmacun",
         image: "pideler_lahmacun.webp",
         sizes: [
-          { size: "1 porsiyon", price: 130 },
-          { size: "2 porsiyon", price: 260 },
+          { size: "1 porsiyon", price: 150 },
+          { size: "2 porsiyon", price: 300 },
         ],
       },
       {
         name: "Kuşbaşılı",
         image: "pideler_kusbasili.webp",
         sizes: [
-          { size: "1 porsiyon", price: 280 },
-          { size: "1.5 porsiyon", price: 420 },
+          { size: "1 porsiyon", price: 300 },
+          { size: "1.5 porsiyon", price: 450 },
         ],
       },
       {
         name: "Kuşbaşılı Yumurtalı",
         image: "pideler_kusbasili_yumurtali.webp",
         sizes: [
-          { size: "1 porsiyon", price: 300 },
-          { size: "1.5 porsiyon", price: 450 },
+          { size: "1 porsiyon", price: 320 },
+          { size: "1.5 porsiyon", price: 480 },
         ],
       },
       {
         name: "Kuşbaşılı Kaşarlı",
         image: "pideler_kusbasili_kasarli.webp",
         sizes: [
-          { size: "1 porsiyon", price: 320 },
-          { size: "1.5 porsiyon", price: 480 },
+          { size: "1 porsiyon", price: 350 },
+          { size: "1.5 porsiyon", price: 525 },
         ],
       },
       {
         name: "Kıymalı Yumurtalı",
         image: "pideler_kiymali_yumurtali.webp",
         sizes: [
-          { size: "1 porsiyon", price: 250 },
-          { size: "1.5 porsiyon", price: 375 },
+          { size: "1 porsiyon", price: 275 },
+          { size: "1.5 porsiyon", price: 410 },
         ],
       },
       {
         name: "Karışık",
         image: "pideler_karisik.webp",
         sizes: [
-          { size: "1 porsiyon", price: 280 },
-          { size: "1.5 porsiyon", price: 420 },
+          { size: "1 porsiyon", price: 320 },
+          { size: "1.5 porsiyon", price: 480 },
         ],
       },
       {
         name: "Kıyma Kaşar Yumurta",
         image: "pideler_kiyma_kasar_yumurta.webp",
         sizes: [
-          { size: "1 porsiyon", price: 280 },
-          { size: "1.5 porsiyon", price: 420 },
+          { size: "1 porsiyon", price: 300 },
+          { size: "1.5 porsiyon", price: 450 },
         ],
       },
       {
         name: "Kıyma Kaşar",
         image: "pideler_kiyma_kasar.webp",
         sizes: [
-          { size: "1 porsiyon", price: 270 },
-          { size: "1.5 porsiyon", price: 405 },
+          { size: "1 porsiyon", price: 290 },
+          { size: "1.5 porsiyon", price: 435 },
         ],
       },
       {
         name: "Kuşbaşı Kaşar Yumurta",
         image: "pideler_kusbasili_yumurtali.webp",
         sizes: [
-          { size: "1 porsiyon", price: 340 },
-          { size: "1.5 porsiyon", price: 510 },
+          { size: "1 porsiyon", price: 360 },
+          { size: "1.5 porsiyon", price: 540 },
         ],
       },
       {
         name: "Kaşarlı",
         image: "pideler_kasarli.webp",
         sizes: [
-          { size: "1 porsiyon", price: 240 },
-          { size: "1.5 porsiyon", price: 360 },
+          { size: "1 porsiyon", price: 260 },
+          { size: "1.5 porsiyon", price: 390 },
         ],
       },
       {
         name: "Kaşarlı Sebzeli",
         image: "pideler_kasarli_sebzeli.webp",
         sizes: [
-          { size: "1 porsiyon", price: 260 },
-          { size: "1.5 porsiyon", price: 390 },
+          { size: "1 porsiyon", price: 280 },
+          { size: "1.5 porsiyon", price: 420 },
         ],
       },
     ],
@@ -111,62 +111,60 @@ export const menu: MenuCategory[] = [
         name: "Adana",
         image: "kebaplar_adana.webp",
         sizes: [
-          { size: "1 porsiyon", price: 290 },
-          { size: "1.5 porsiyon", price: 435 },
-          { size: "0.5 porsiyon", price: 145 },
+          { size: "1 porsiyon", price: 320 },
+          { size: "1.5 porsiyon", price: 480 },
+          { size: "0.5 porsiyon", price: 160 },
         ],
       },
       {
         name: "Tavuk Şiş",
         image: "kebaplar_tavuk_sis.webp",
         sizes: [
-          { size: "1 porsiyon", price: 240 },
-          { size: "1.5 porsiyon", price: 360 },
-          { size: "0.5 porsiyon", price: 120 },
+          { size: "1 porsiyon", price: 260 },
+          { size: "1.5 porsiyon", price: 390 },
+          { size: "0.5 porsiyon", price: 130 },
         ],
       },
       {
         name: "Kanat",
         image: "kebaplar_kanat.webp",
         sizes: [
-          { size: "1 porsiyon", price: 250 },
-          { size: "1.5 porsiyon", price: 375 },
-          { size: "0.5 porsiyon", price: 125 },
+          { size: "1 porsiyon", price: 270 },
+          { size: "1.5 porsiyon", price: 405 },
+          { size: "0.5 porsiyon", price: 135 },
         ],
       },
       {
         name: "Beyti",
         image: "kebaplar_beyti.webp",
         sizes: [
-          { size: "1 porsiyon", price: 330 },
-          { size: "1.5 porsiyon", price: 495 },
-          { size: "0.5 porsiyon", price: 165 },
+          { size: "1 porsiyon", price: 350 },
+          { size: "1.5 porsiyon", price: 525 },
         ],
       },
       {
         name: "Sac Kavurma",
         image: "kebaplar_sac_kavurma.webp",
         sizes: [
-          { size: "1 porsiyon", price: 400 },
-          { size: "1.5 porsiyon", price: 600 },
-          { size: "0.5 porsiyon", price: 200 },
+          { size: "1 porsiyon", price: 430 },
+          { size: "1.5 porsiyon", price: 645 },
         ],
       },
       {
         name: "Kiremitte Tavuk",
         image: "kebaplar_kiremitte_tavuk.webp",
         sizes: [
-          { size: "1 porsiyon", price: 280 },
-          { size: "1.5 porsiyon", price: 420 },
-          { size: "0.5 porsiyon", price: 140 },
+          { size: "1 porsiyon", price: 300 },
+          { size: "1.5 porsiyon", price: 450 },
+          { size: "0.5 porsiyon", price: 150 },
         ],
       },
       {
         name: "Kiremitte Kuşbaşı",
         image: "kebaplar_kiremitte_kusbasi.webp",
         sizes: [
-          { size: "1 porsiyon", price: 350 },
-          { size: "1.5 porsiyon", price: 525 },
+          { size: "1 porsiyon", price: 360 },
+          { size: "1.5 porsiyon", price: 540 },
         ],
       },
       {
@@ -182,9 +180,9 @@ export const menu: MenuCategory[] = [
         name: "Ciğer Şiş",
         image: "kebaplar_ciger_sis.webp",
         sizes: [
-          { size: "1 porsiyon", price: 350 },
-          { size: "1.5 porsiyon", price: 525 },
-          { size: "0.5 porsiyon", price: 175 },
+          { size: "1 porsiyon", price: 370 },
+          { size: "1.5 porsiyon", price: 555 },
+          { size: "0.5 porsiyon", price: 185 },
         ],
       },
       {
@@ -193,7 +191,14 @@ export const menu: MenuCategory[] = [
         sizes: [
           { size: "1 porsiyon", price: 400 },
           { size: "1.5 porsiyon", price: 600 },
-          { size: "0.5 porsiyon", price: 200 },
+        ],
+      },
+      {
+        name: "Karışık Izgara",
+        image: "kebaplar_karisik_izgara.webp",
+        sizes: [
+          { size: "1 porsiyon", price: 425 },
+          { size: "Et Ciğer Çeşit", price: 835 },
         ],
       },
     ],
@@ -395,14 +400,14 @@ export const menu: MenuCategory[] = [
       {
         name: "Lavaş",
         image: "lavas_pide_ic_lavas.webp",
-        sizes: [{ size: "1 adet, Hazır", price: 30 }],
+        sizes: [{ size: "1 adet, Hazır", price: 35 }],
       },
       {
         name: "Pide Hazırlama",
         image: "lavas_pide_ic_pide_hazirlama.webp",
         sizes: [
-          { size: "1 adet, Hazır", price: 30 },
-          { size: "1 adet, Yedoy", price: 35 },
+          { size: "1 adet, Hazır", price: 35 },
+          { size: "1 adet, Yedoy", price: 40 },
         ],
       },
     ],
