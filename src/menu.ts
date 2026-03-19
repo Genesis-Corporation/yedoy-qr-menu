@@ -156,7 +156,6 @@ export const menu: MenuCategory[] = [
         sizes: [
           { size: "1 porsiyon", price: 300 },
           { size: "1.5 porsiyon", price: 450 },
-          { size: "0.5 porsiyon", price: 150 },
         ],
       },
       {
