@@ -399,14 +399,14 @@ export const menu: MenuCategory[] = [
       {
         name: "Lavaş",
         image: "lavas_pide_ic_lavas.webp",
-        sizes: [{ size: "1 adet, Hazır", price: 35 }],
+        sizes: [{ size: "1 adet, Hazır", price: 40 }],
       },
       {
         name: "Pide Hazırlama",
         image: "lavas_pide_ic_pide_hazirlama.webp",
         sizes: [
-          { size: "1 adet, Hazır", price: 35 },
-          { size: "1 adet, Yedoy", price: 40 },
+          { size: "1 adet, Hazır", price: 40 },
+          { size: "1 adet, Yedoy", price: 45 },
         ],
       },
     ],
