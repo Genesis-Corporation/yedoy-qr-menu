@@ -196,8 +196,8 @@ export const menu: MenuCategory[] = [
         name: "Karışık Izgara",
         image: "kebaplar_karisik_izgara.webp",
         sizes: [
-          { size: "1 porsiyon", price: 425 },
-          { size: "Et Ciğer Çeşit", price: 835 },
+          { size: "1 porsiyon", price: 455 },
+          { size: "Et Ciğer Çeşit", price: 885 },
         ],
       },
     ],
