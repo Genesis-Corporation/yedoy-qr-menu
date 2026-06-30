@@ -2,6 +2,7 @@ export type Size = { size: string; price: number };
 export type Item = { name: string; image: string; sizes: Size[] };
 export type MenuCategory = { category: string; items: Item[] };
 
+// Menu Prices
 export const menu: MenuCategory[] = [
   {
     category: "🥖 Pideler",
